@@ -4,3 +4,4 @@ nltk
 requests
 flask
 flask_wtf
+sqlite3
